@@ -14,7 +14,7 @@ Our project aims to bridge the gap between technology and health as well as stre
 
 To start using our services, follow these simple steps:
 
-1. **Join:** Add our WhatsApp contact to your list: [+916201060889].
+1. **Join:** Add our WhatsApp contact to your list: [].
 
 2. **PDF Conversations:** Share a PDF document with us to initiate a chat. Discuss its content, ask questions, and interact.
 
@@ -25,7 +25,7 @@ To start using our services, follow these simple steps:
 We are committed to improving your experience. If you encounter any issues, have questions, or want to provide feedback, please reach out to us:
 
 - **Email:** [""]
-- **WhatsApp Support:** [+916201060889]
+- **WhatsApp Support:** []
 
 ## Contribution
 
